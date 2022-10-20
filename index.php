@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
   <head>
-    <title>Support Kerala Blasters</title>
+    <title>AWS Community Day Ahmedabad</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/croppie.css" rel="stylesheet" async="async" />
     <link href="css/style.css" rel="stylesheet" async="async" />
@@ -13,8 +13,8 @@
   <body>
     <div id="wrapper">
       <div id="content">
-        <h1>Support Kerala Blasters!</h1>
-        <p>Support Kerala Blasters by changing your profile picture</p>
+        <h1>AWS Community Day Ahmedabad</h1>
+        <p>Make your own frame</p>
         <div id="preview">
           <div id="crop-area">
             <img src="http://demos.subinsb.com/isl-profile-pic/image/person.png" id="profile-pic" />
